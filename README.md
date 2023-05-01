@@ -5,6 +5,8 @@ Every website in the world was most certainly written with HTML. Here you will f
 
 How to install de Shopping list:
 
+
+To install the Shopinglist on the local pc, navigate to the desired folder in your terminal or command prompt. Run the following command:
 ```bash
-To install the Shopinglist on the local pc, navigate to the desired folder in your terminal or command prompt. Run the following command: git clone https://github.com/DiegoMalans/Shoplist.git.
+ git clone https://github.com/DiegoMalans/Shoplist.git.
 ```
