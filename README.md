@@ -9,4 +9,9 @@ To install the Shopinglist on the local pc, navigate to the desired folder in yo
 ```bash
  git clone https://github.com/DiegoMalans/Shoplist.git.
 ```
-- v
+## After cloning with Git, you should find the following files in your folder:
+
+- index.html
+- style.css
+- script.js
+- README.md
