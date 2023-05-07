@@ -1,6 +1,5 @@
 # Shoplist
-How to make a HTML-Site
-Every website in the world was most certainly written with HTML. Here you will find an example file which you can test in any text editor such as Visual Studio Code.
+If you always wanted to know how to program a website, you have come to the right place.In this simple example which consists of three files:HTML CSS and Javascript I explain to you very simply how a website is built.After you download the files and open them in any code editor such as visual studio code,a simple shopping list appears in front of you.Have fun experimenting :)
 
 ## How to install de Shopping list:
 
